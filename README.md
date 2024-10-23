@@ -1,1 +1,1 @@
-# DS_LAB1
+# DS_LABS
